@@ -1,7 +1,8 @@
 <div align="center">
 
  <img src="https://raw.githubusercontent.com/dhrumil1128/dhrumil1128/main/assets/github%20banner.png" alt="Dhrumil Pawar GitHub Banner" width="100%">
-# Hi 👋 I'm Dhrumil Pawar
+ 
+Hi 👋 I'm Dhrumil Pawar
 
 ### AI/ML Engineer • Agentic AI • AI Infrastructure • Machine Learning
 

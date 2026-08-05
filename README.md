@@ -1,83 +1,93 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhrumil1128/dhrumil1128/main/assets/github-banner.png" width="100%" alt="Dhrumil Pawar Banner">
+</p>
 
- <img src="https://raw.githubusercontent.com/dhrumil1128/dhrumil1128/main/assets/github%20banner.png" alt="Dhrumil Pawar GitHub Banner" width="100%">
- 
-Hi 👋 I'm Dhrumil Pawar
+<h1 align="center">Hi 👋 I'm Dhrumil Pawar</h1>
 
-### AI/ML Engineer • Agentic AI • AI Infrastructure • Machine Learning
+<h3 align="center">
+AI/ML Engineer • Agentic AI • AI Infrastructure • Machine Learning
+</h3>
 
+<p align="center">
 Building autonomous AI systems that solve real-world engineering problems.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://www.datascienceportfol.io/dhrumilpawar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhrumil-pawar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:dhrumilpawar2910@gmail.com)
+<p align="center">
+<a href="https://www.datascienceportfol.io/dhrumilpawar">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/dhrumil-pawar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dhrumilpawar2910@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 🚀 About Me
+# About Me
 
-I build intelligent AI systems that go beyond prompt-response interactions.
+I'm an AI/ML Engineer passionate about building intelligent systems that move beyond simple prompt-response interactions.
 
-My work focuses on designing **Agentic AI**, **AI Infrastructure**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI** systems capable of autonomous reasoning, orchestration, and production deployment.
+My work focuses on **Agentic AI, Machine Learning, Deep Learning, Computer Vision, Data Science, AI Infrastructure, and Generative AI**, with an emphasis on designing production-oriented AI applications.
 
-Currently working as an **AI/ML Engineer @ WhiskrCode**, where I develop production AI solutions across Computer Vision, AI Agents, and LLM-powered applications.
+Currently, I work as an **AI/ML Engineer at WhiskrCode**, where I build AI solutions across Computer Vision, Machine Learning, AI Agents, and Generative AI.
 
 ---
 
-# 🌟 Flagship Project
+# 🚀 Flagship Project — KAIROS
 
-## KAIROS
+**KAIROS** is my flagship project—an Autonomous AI Engineering Platform built from scratch.
 
-> Autonomous AI Engineering Platform
-
-KAIROS is a production-oriented AI platform that automates software engineering through specialized AI agents.
+It is designed to automate software engineering workflows by coordinating multiple specialized AI agents responsible for planning, architecture, code generation, review, testing, and memory management.
 
 ### Core Capabilities
 
-- Multi-Agent Architecture
-- Autonomous Planning
-- AI Code Generation
+- Multi-Agent AI Architecture
+- AI Planning & Reasoning
+- Autonomous Code Generation
 - AI Code Review
 - AI Testing
 - Long-Term Memory
-- Context Management
+- Multi-Provider LLM Routing
 - Secure Sandboxed Execution
 - Desktop Automation
-- Multi-LLM Provider Support
 - Cross-Platform Desktop Application
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 - Agentic AI
-- Multi-Agent Systems
 - AI Infrastructure
+- Multi-Agent Systems
 - Machine Learning
 - Deep Learning
 - Computer Vision
+- Generative AI
 - Production AI Systems
-- MLOps
 
 ---
 
-# ⚡ Technical Expertise
+# Technical Expertise
 
 ### AI & Machine Learning
 
-Machine Learning • Deep Learning • NLP • Computer Vision • Time-Series • Feature Engineering • Model Evaluation
+Machine Learning • Deep Learning • Computer Vision • NLP • Time-Series Analysis • Feature Engineering • Model Evaluation
 
 ### Agentic AI
 
-CrewAI • LangGraph • MCP • Autonomous AI Workflows • AI Orchestration
+CrewAI • LangGraph • MCP • AI Orchestration • Autonomous Workflows
 
 ### Generative AI
 
-OpenAI • Claude • Gemini • Ollama • RAG • Prompt Engineering
+OpenAI • Claude • Gemini • Ollama • Retrieval-Augmented Generation (RAG)
 
-### Backend
+### Backend Engineering
 
 Python • FastAPI • REST APIs
 
@@ -87,51 +97,42 @@ PostgreSQL • Redis
 
 ### DevOps
 
-Docker • GitHub Actions
+Docker • Git • GitHub Actions
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,postgres,redis,git,github,vscode,nextjs,react,js,ts"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,postgres,redis,git,github,nextjs,react,js,ts,vscode"/>
 
 </p>
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
-### 🚀 KAIROS
-
-Autonomous AI Engineering Platform
-
----
-
-### 🤖 NexusForge
-
-Multi-Agent AI Platform built using CrewAI & MCP
+## 🚀 KAIROS
+Autonomous AI Engineering Platform focused on planning, code generation, review, testing, memory management, and AI orchestration.
 
 ---
 
-### 👁 YOLOv8 Industrial Vision
-
-Production Computer Vision Pipeline
-
----
-
-### 🧠 Career AI Agent
-
-LLM-powered Career Assistant
+## 🤖 NexusForge
+Multi-Agent AI platform that transforms natural language requirements into deployment-ready software workflows using CrewAI and MCP.
 
 ---
 
-# 📊 GitHub Analytics
+## 👁 Industrial Computer Vision
+YOLOv8-based Computer Vision pipeline covering dataset preparation, annotation, model training, evaluation, and desktop deployment.
+
+---
+
+# GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhrumil1128&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhrumil1128&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil1128&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -139,7 +140,7 @@ LLM-powered Career Assistant
 
 ---
 
-# 📈 Contribution Graph
+# Activity Graph
 
 <p align="center">
 
@@ -149,17 +150,17 @@ LLM-powered Career Assistant
 
 ---
 
-# 🎤 Speaking
+# Speaking
 
-International AI Conference 2024
+🎤 **International AI Conference 2024**
 
-Harnessing NLP with AI
+**Harnessing NLP with AI**
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
-I'm always interested in collaborating on
+I'm always interested in collaborating on projects involving:
 
 - Agentic AI
 - AI Infrastructure
@@ -168,12 +169,12 @@ I'm always interested in collaborating on
 - Generative AI
 - Open Source AI
 
----
+If you're building something interesting or would like to collaborate, feel free to connect.
 
-<div align="center">
+<p align="center">
 
 ⭐ Thanks for visiting my profile!
 
 Building the future, one intelligent system at a time.
 
-</div>
+</p>

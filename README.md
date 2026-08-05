@@ -1,14 +1,16 @@
 <div align="center">
 
-# Hi, I'm Dhrumil Pawar 👋
+<img src="[YOUR_GITHUB_BANNER_URL](https://drive.google.com/file/d/1ULCDuY5mhPgonnCttr7MfxUQvyW-BhAu/view?usp=sharing)" width="100%" />
 
-### AI/ML Engineer | Building Autonomous AI Systems & AI Infrastructure
+# Hi 👋 I'm Dhrumil Pawar
 
-Building production-ready AI systems across **Agentic AI, Machine Learning, Deep Learning, Computer Vision, Data Science, and Generative AI**.
+### AI/ML Engineer • Agentic AI • AI Infrastructure • Machine Learning
 
-Currently building **KAIROS** — an Autonomous AI Engineering Platform that orchestrates multiple AI agents to automate software engineering workflows.
+Building autonomous AI systems that solve real-world engineering problems.
 
-[Portfolio](https://www.datascienceportfol.io/dhrumilpawar) • [LinkedIn](https://www.linkedin.com/in/dhrumil-pawar/) • Email: dhrumilpawar2910@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://www.datascienceportfol.io/dhrumilpawar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhrumil-pawar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:dhrumilpawar2910@gmail.com)
 
 </div>
 
@@ -16,36 +18,39 @@ Currently building **KAIROS** — an Autonomous AI Engineering Platform that orc
 
 # 🚀 About Me
 
-I'm passionate about building intelligent systems that solve real engineering problems.
+I build intelligent AI systems that go beyond prompt-response interactions.
 
-My work focuses on designing production-ready AI applications that combine Machine Learning, Large Language Models, Multi-Agent Systems, and AI Infrastructure into reliable software.
+My work focuses on designing **Agentic AI**, **AI Infrastructure**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI** systems capable of autonomous reasoning, orchestration, and production deployment.
 
-Currently working as an **AI/ML Engineer at WhiskrCode**, where I develop production-grade AI solutions spanning Computer Vision, Agentic AI, Machine Learning, and Generative AI.
+Currently working as an **AI/ML Engineer @ WhiskrCode**, where I develop production AI solutions across Computer Vision, AI Agents, and LLM-powered applications.
 
 ---
 
 # 🌟 Flagship Project
 
-## KAIROS — Autonomous AI Engineering Platform
+## KAIROS
 
-KAIROS is a production-oriented AI engineering platform built from scratch.
+> Autonomous AI Engineering Platform
 
-### Core Features
+KAIROS is a production-oriented AI platform that automates software engineering through specialized AI agents.
 
-- Multi-Agent AI Architecture
-- AI Planning & Reasoning
-- Autonomous Code Generation
-- AI Code Review & Testing
-- Long-Term Context & Memory
-- MCP Integration
-- Multi-LLM Provider Support
+### Core Capabilities
+
+- Multi-Agent Architecture
+- Autonomous Planning
+- AI Code Generation
+- AI Code Review
+- AI Testing
+- Long-Term Memory
+- Context Management
 - Secure Sandboxed Execution
 - Desktop Automation
+- Multi-LLM Provider Support
 - Cross-Platform Desktop Application
 
 ---
 
-# 💼 Current Focus
+# 🎯 Current Focus
 
 - Agentic AI
 - Multi-Agent Systems
@@ -53,86 +58,108 @@ KAIROS is a production-oriented AI engineering platform built from scratch.
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Generative AI
 - Production AI Systems
+- MLOps
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Technical Expertise
 
-### Languages
+### AI & Machine Learning
 
-Python • SQL • JavaScript • TypeScript
-
-### AI / Machine Learning
-
-PyTorch • TensorFlow • Scikit-learn • YOLOv8 • OpenCV
+Machine Learning • Deep Learning • NLP • Computer Vision • Time-Series • Feature Engineering • Model Evaluation
 
 ### Agentic AI
 
-CrewAI • LangGraph • MCP
+CrewAI • LangGraph • MCP • Autonomous AI Workflows • AI Orchestration
 
-### LLMs
+### Generative AI
 
-OpenAI • Claude • Gemini • Ollama
+OpenAI • Claude • Gemini • Ollama • RAG • Prompt Engineering
 
 ### Backend
 
-FastAPI • REST APIs
+Python • FastAPI • REST APIs
 
 ### Databases
 
 PostgreSQL • Redis
 
-### Frontend
-
-Next.js • React
-
 ### DevOps
 
-Docker • Git • GitHub Actions
+Docker • GitHub Actions
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,postgres,redis,git,github,vscode,nextjs,react,js,ts"/>
+
+</p>
 
 ---
 
 # 📌 Featured Projects
 
 ### 🚀 KAIROS
-Autonomous AI Engineering Platform for software planning, architecture, code generation, review, testing, memory management, and autonomous workflows.
+
+Autonomous AI Engineering Platform
 
 ---
 
 ### 🤖 NexusForge
-Production-oriented Multi-Agent AI platform that transforms natural language into deployment-ready software architectures using CrewAI and MCP.
+
+Multi-Agent AI Platform built using CrewAI & MCP
 
 ---
 
 ### 👁 YOLOv8 Industrial Vision
-Real-time Computer Vision pipeline covering dataset annotation, model training, evaluation, and deployment.
+
+Production Computer Vision Pipeline
+
+---
+
+### 🧠 Career AI Agent
+
+LLM-powered Career Assistant
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhrumil1128&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil1128&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrumil1128&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🎤 Speaking
 
-**International AI Conference 2024**
+International AI Conference 2024
 
-**Harnessing NLP with AI**
-
----
-
-# 📈 Current Learning
-
-- Advanced AI Infrastructure
-- MLOps
-- Distributed AI Systems
-- AI Security
-- LLM Evaluation
-- Production AI Engineering
+Harnessing NLP with AI
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in collaborating on:
+I'm always interested in collaborating on
 
 - Agentic AI
 - AI Infrastructure
@@ -141,4 +168,12 @@ I'm always interested in collaborating on:
 - Generative AI
 - Open Source AI
 
-⭐ If you find my work interesting, feel free to connect or follow my journey.
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+Building the future, one intelligent system at a time.
+
+</div>

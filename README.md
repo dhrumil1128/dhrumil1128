@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="[YOUR_GITHUB_BANNER_URL](https://drive.google.com/file/d/1ULCDuY5mhPgonnCttr7MfxUQvyW-BhAu/view?usp=sharing)" width="100%" />
-
+ <img src="https://raw.githubusercontent.com/dhrumil1128/dhrumil1128/main/assets/github%20banner.png" alt="Dhrumil Pawar GitHub Banner" width="100%">
 # Hi 👋 I'm Dhrumil Pawar
 
 ### AI/ML Engineer • Agentic AI • AI Infrastructure • Machine Learning

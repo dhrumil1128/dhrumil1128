@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhrumil1128/dhrumil1128/main/assets/github-banner.png" width="100%" alt="Dhrumil Pawar Banner">
+  <img src="https://raw.githubusercontent.com/dhrumil1128/dhrumil1128/main/assets/github banner.png" width="100%" alt="Dhrumil Pawar Banner">
 </p>
 
 <h1 align="center">Hi 👋 I'm Dhrumil Pawar</h1>

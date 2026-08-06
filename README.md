@@ -41,7 +41,7 @@ My engineering focus sits at the intersection of **Agentic AI, AI Infrastructure
 
 ## 🔥 Flagship Project - KAIROS V1
 
-> **Autonomous AI Engineering Platform** — built entirely from scratch.
+> **Autonomous AI Engineering Platform** - built entirely from scratch.
 
 KAIROS is not a wrapper around existing tools. It is a **5-tier autonomous software engineering engine** that coordinates 6 specialized AI agents, generates complete production-ready codebases, reviews its own output, autonomously repairs failing code, and ships as a standalone cross-platform desktop application.
 

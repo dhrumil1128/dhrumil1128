@@ -74,7 +74,7 @@ PlannerAgent → ArchitectAgent → CoderAgent → ReviewerAgent → TesterAgent
 
 ---
 
-## 🧠 AI IntelHub — Full-Stack AI Intelligence SaaS
+## 🧠 AI IntelHub - Full-Stack AI Intelligence SaaS
 > **Private Repo · In Active Development**
 
 A production-architecture SaaS platform that aggregates real-time AI news, startup funding intelligence, model releases, framework tracking, and research trends — powered by RAG with semantic vector search.

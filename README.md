@@ -39,7 +39,7 @@ My engineering focus sits at the intersection of **Agentic AI, AI Infrastructure
 
 ---
 
-## 🔥 Flagship Project — KAIROS V1
+## 🔥 Flagship Project - KAIROS V1
 
 > **Autonomous AI Engineering Platform** — built entirely from scratch.
 
@@ -61,12 +61,12 @@ PlannerAgent → ArchitectAgent → CoderAgent → ReviewerAgent → TesterAgent
 
 | Subsystem | What It Does |
 |---|---|
-| 🤖 **6-Agent Pipeline** | Planner → Architect → Coder → Reviewer → Tester → Memory — strict sequential orchestration |
-| 🔁 **Self-Healing RepairLoop** | Detects review failures → builds fix plan → re-runs reviewer — zero human intervention |
-| 🏗️ **Deterministic Blueprints** | Framework templates eliminate LLM layout hallucinations — identical project structures every run |
-| 🔌 **Multi-Provider LLM Routing** | OpenAI · Claude · Gemini · Ollama · NVIDIA — unified provider abstraction layer |
+| 🤖 **6-Agent Pipeline** | Planner → Architect → Coder → Reviewer → Tester → Memory - strict sequential orchestration |
+| 🔁 **Self-Healing RepairLoop** | Detects review failures → builds fix plan → re-runs reviewer - zero human intervention |
+| 🏗️ **Deterministic Blueprints** | Framework templates eliminate LLM layout hallucinations - identical project structures every run |
+| 🔌 **Multi-Provider LLM Routing** | OpenAI · Claude · Gemini · Ollama · NVIDIA - unified provider abstraction layer |
 | 🔒 **Sandboxed Execution** | Generated code runs in isolated subprocesses with strict 30s timeouts and stderr capture |
-| 🖥️ **Desktop Automation** | PyAutoGUI + PyGetWindow + Playwright — native OS window, mouse, keyboard, browser control |
+| 🖥️ **Desktop Automation** | PyAutoGUI + PyGetWindow + Playwright - native OS window, mouse, keyboard, browser control |
 | 📦 **Packaged Desktop App** | Cross-platform standalone application via PyQt6 + PyInstaller |
 | 📄 **Engineering Docs** | 47-page EDD with Architecture Decision Records, threat model, and 18 architecture diagrams |
 
@@ -95,16 +95,16 @@ Gemini API (LLM Synthesis)
 
 **What makes it production-grade:**
 
-- **RAG + pgvector** — semantic retrieval without external vector DB (Pinecone/Weaviate) — lower latency, lower cost
-- **Real-time WebSocket infrastructure** — live AI news feeds, dashboard synchronization, streaming-ready architecture
-- **3 Authentication systems** — JWT + Firebase Phone OTP + Google OAuth — Redis-based rate limiting
-- **Full SaaS billing** — Razorpay subscriptions, invoice generation, plan management, usage restrictions
-- **Modular handlers architecture** — replaces monolithic chatbot design for better scalability and feature isolation
-- **Background scheduler** — automated AI intelligence ingestion pipeline with embedding generation
+- **RAG + pgvector** - semantic retrieval without external vector DB (Pinecone/Weaviate) — lower latency, lower cost
+- **Real-time WebSocket infrastructure** - live AI news feeds, dashboard synchronization, streaming-ready architecture
+- **3 Authentication systems** - JWT + Firebase Phone OTP + Google OAuth - Redis-based rate limiting
+- **Full SaaS billing** - Razorpay subscriptions, invoice generation, plan management, usage restrictions
+- **Modular handlers architecture** - replaces monolithic chatbot design for better scalability and feature isolation
+- **Background scheduler** - automated AI intelligence ingestion pipeline with embedding generation
 
 **Stack:** `Python` `FastAPI` `Next.js 15` `TypeScript` `PostgreSQL` `pgvector` `Redis` `Docker` `Gemini API` `Firebase` `Razorpay` `SQLAlchemy` `Alembic` `Tailwind CSS` `shadcn/ui` `Playwright`
 
-> 🔒 Private repository — architecture and code available for review upon request during hiring process.
+> 🔒 Private repository - architecture and code available for review upon request during hiring process.
 
 ---
 

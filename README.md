@@ -25,7 +25,7 @@
 
 AI/ML Engineer with **1+ year of production experience** building autonomous AI systems, computer vision pipelines, and full-stack AI products.
 
-Currently at **WhiskrCode** delivering a real-time **YOLOv8 industrial computer vision pipeline** — from raw dataset annotation through model training to a fully deployed desktop application.
+Currently at **WhiskrCode** delivering a real-time **YOLOv8 industrial computer vision pipeline** - from raw dataset annotation through model training to a fully deployed desktop application.
 
 My engineering focus sits at the intersection of **Agentic AI, AI Infrastructure, Machine Learning, Computer Vision, and Generative AI** — with a clear bias toward systems that work in production, not just in demos.
 

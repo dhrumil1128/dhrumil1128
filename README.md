@@ -110,14 +110,14 @@ Gemini API (LLM Synthesis)
 
 ## 🚀 More Projects
 
-### 🗺️ [Travel Planner AI Agent](https://github.com/dhrumil1128/Travel-Planner-AI-Agent)
+### 🗺️ [Travel Planner AI Agent](https://github.com/dhrumil1128/Travel-Planner-AI-Agent-v2.0)
 **LangGraph · Gemini Pro · Streamlit · REST APIs**
 
 Multi-step autonomous travel itinerary planner. Agent reasons across real-time location data, photos, and activities to generate fully personalized travel plans end-to-end.
 
 ---
 
-### 🚦 [Smart AI Traffic Management System](https://github.com/dhrumil1128/Smart-AI-Traffic-Management)
+### 🚦 [Smart AI Traffic Management System](https://github.com/dhrumil1128/Smart-AI-Traffic-Managment-System-)
 **Flask · Gemini Pro · Scikit-learn · NetworkX · Leaflet.js**
 
 ML-powered dynamic traffic signal control system. Reduces average wait times by **~35%** and improves emergency vehicle routing by **~40%** through real-time optimization.
@@ -131,14 +131,14 @@ Autonomous agent that generates complete end-to-end ML pipelines from natural la
 
 ---
 
-### 🎙️ [Career AI Agent](https://github.com/dhrumil1128/Career-AI-Agent)
+### 🎙️ [Career AI Agent](https://github.com/dhrumil1128/AutoML_Agent)
 **LangGraph · Mistral-7B · Gradio · NLP**
 
 Voice-interactive career advisor. Reads and understands resumes, reasons across job market data, and recommends career paths through multi-step LLM reasoning.
 
 ---
 
-### 🩺 [Diascan v1.2](https://github.com/dhrumil1128/Diascan)
+### 🩺 [Diascan v1.2](https://github.com/dhrumil1128/Diascan-v-1.2)
 **Streamlit · Scikit-learn · Pandas**
 
 Real-time diabetes risk prediction from clinical health metrics. Clean interactive UI with instant risk insights and model explainability.

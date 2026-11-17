@@ -1,248 +1,146 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhrumil1128/dhrumil1128/main/assets/github banner.png" width="100%" alt="Dhrumil Pawar — AI/ML Engineer"/>
-</div>
+# Dhrumil Pawar
 
-<br/>
+**AI/ML Engineer building agentic AI systems, computer vision pipelines and full-stack AI products.**
 
-<div align="center">
-  <h1>Dhrumil Pawar</h1>
-  <h3>AI/ML Engineer · Agentic AI · AI Infrastructure · Computer Vision · Generative AI</h3>
-  <p><em>I build AI systems that work autonomously - <br/>not just tools that assist humans, but platforms that plan, generate, review, repair, and deploy on their own.</em></p>
-</div>
+1+ year of professional experience. Currently at WhiskrCode (remote), delivering a real-time YOLOv8 industrial computer vision pipeline, from dataset annotation and model training to a deployed desktop application.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrumil-pawar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datascienceportfol.io/dhrumilpawar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhrumilpawar2910@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=dhrumil1128&style=for-the-badge&color=0A66C2&label=Profile+Views)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-AI/ML Engineer with **1+ year of production experience** building autonomous AI systems, computer vision pipelines, and full-stack AI products.
-
-Currently at **WhiskrCode** delivering a real-time **YOLOv8 industrial computer vision pipeline** - from raw dataset annotation through model training to a fully deployed desktop application.
-
-My engineering focus sits at the intersection of **Agentic AI, AI Infrastructure, Machine Learning, Computer Vision, and Generative AI** — with a clear bias toward systems that work in production, not just in demos.
-
-```text
-🔭 Currently Building   →   KAIROS V1 — Autonomous AI Engineering Platform
-🏭 Currently Working    →   AI/ML Engineer @ WhiskrCode (Remote)
-🎯 Target Roles         →   Agentic AI Engineer · AI/ML Engineer · GenAI Engineer · CV Engineer
-🌍 Open To             →   Global Remote · Visa Sponsorship (UK · EU · Canada · UAE · Singapore)
-📩 Contact             →   dhrumilpawar2910@gmail.com
-```
-
----
-
-## 🔥 Flagship Project - KAIROS V1
-
-> **Autonomous AI Engineering Platform** - built entirely from scratch.
-
-KAIROS is not a wrapper around existing tools. It is a **5-tier autonomous software engineering engine** that coordinates 6 specialized AI agents, generates complete production-ready codebases, reviews its own output, autonomously repairs failing code, and ships as a standalone cross-platform desktop application.
-
-```
-User Request
-     ↓
-PlannerAgent → ArchitectAgent → CoderAgent → ReviewerAgent → TesterAgent → MemoryAgent
-                                                    ↓
-                                           Review Failed?
-                                                    ↓
-                                          RepairLoop (Self-Healing)
-                                                    ↓
-                                        SandboxExecutor (Subprocess Isolation)
-                                                    ↓
-                                         ✅ Production-Ready Codebase
-```
-
-| Subsystem | What It Does |
-|---|---|
-| 🤖 **6-Agent Pipeline** | Planner → Architect → Coder → Reviewer → Tester → Memory - strict sequential orchestration |
-| 🔁 **Self-Healing RepairLoop** | Detects review failures → builds fix plan → re-runs reviewer - zero human intervention |
-| 🏗️ **Deterministic Blueprints** | Framework templates eliminate LLM layout hallucinations - identical project structures every run |
-| 🔌 **Multi-Provider LLM Routing** | OpenAI · Claude · Gemini · Ollama · NVIDIA - unified provider abstraction layer |
-| 🔒 **Sandboxed Execution** | Generated code runs in isolated subprocesses with strict 30s timeouts and stderr capture |
-| 🖥️ **Desktop Automation** | PyAutoGUI + PyGetWindow + Playwright - native OS window, mouse, keyboard, browser control |
-| 📦 **Packaged Desktop App** | Cross-platform standalone application via PyQt6 + PyInstaller |
-| 📄 **Engineering Docs** | 47-page EDD with Architecture Decision Records, threat model, and 18 architecture diagrams |
-
-**Stack:** `Python` `LangGraph` `CrewAI` `MCP` `OpenAI` `Claude` `Gemini` `Ollama` `NVIDIA` `PyQt6` `Playwright` `PyAutoGUI` `FastAPI` `Docker` `SQLite`
-
----
-
-## 🧠 AI IntelHub - Full-Stack AI Intelligence SaaS
-> **Private Repo · In Active Development**
-
-A production-architecture SaaS platform that aggregates real-time AI news, startup funding intelligence, model releases, framework tracking, and research trends — powered by RAG with semantic vector search.
-
-```
-Next.js 15 Frontend
-       ↓
-FastAPI Backend
-       ↓
-Modular Handlers Architecture
-       ↓
-RAG Retrieval Pipeline
-       ↓
-PostgreSQL + pgvector (Semantic Search)
-       ↓
-Gemini API (LLM Synthesis)
-```
-
-**What makes it production-grade:**
-
-- **RAG + pgvector** - semantic retrieval without external vector DB (Pinecone/Weaviate) — lower latency, lower cost
-- **Real-time WebSocket infrastructure** - live AI news feeds, dashboard synchronization, streaming-ready architecture
-- **3 Authentication systems** - JWT + Firebase Phone OTP + Google OAuth - Redis-based rate limiting
-- **Full SaaS billing** - Razorpay subscriptions, invoice generation, plan management, usage restrictions
-- **Modular handlers architecture** - replaces monolithic chatbot design for better scalability and feature isolation
-- **Background scheduler** - automated AI intelligence ingestion pipeline with embedding generation
-
-**Stack:** `Python` `FastAPI` `Next.js 15` `TypeScript` `PostgreSQL` `pgvector` `Redis` `Docker` `Gemini API` `Firebase` `Razorpay` `SQLAlchemy` `Alembic` `Tailwind CSS` `shadcn/ui` `Playwright`
-
-> 🔒 Private repository - architecture and code available for review upon request during hiring process.
-
----
-
-## 🚀 More Projects
-
-### 🗺️ [Travel Planner AI Agent](https://github.com/dhrumil1128/Travel-Planner-AI-Agent-v2.0)
-**LangGraph · Gemini Pro · Streamlit · REST APIs**
-
-Multi-step autonomous travel itinerary planner. Agent reasons across real-time location data, photos, and activities to generate fully personalized travel plans end-to-end.
-
----
-
-### 🚦 [Smart AI Traffic Management System](https://github.com/dhrumil1128/Smart-AI-Traffic-Managment-System-)
-**Flask · Gemini Pro · Scikit-learn · NetworkX · Leaflet.js**
-
-ML-powered dynamic traffic signal control system. Reduces average wait times by **~35%** and improves emergency vehicle routing by **~40%** through real-time optimization.
-
----
-
-### 🤖 [AutoML Agent](https://github.com/dhrumil1128/AutoML-Agent)
-**LangGraph · LLMs · Pandas · Scikit-learn**
-
-Autonomous agent that generates complete end-to-end ML pipelines from natural language instructions — feature engineering, model selection, training, and evaluation. Zero manual coding required.
-
----
-
-### 🎙️ [Career AI Agent](https://github.com/dhrumil1128/AutoML_Agent)
-**LangGraph · Mistral-7B · Gradio · NLP**
-
-Voice-interactive career advisor. Reads and understands resumes, reasons across job market data, and recommends career paths through multi-step LLM reasoning.
-
----
-
-### 🩺 [Diascan v1.2](https://github.com/dhrumil1128/Diascan-v-1.2)
-**Streamlit · Scikit-learn · Pandas**
-
-Real-time diabetes risk prediction from clinical health metrics. Clean interactive UI with instant risk insights and model explainability.
-
----
-
-## 🛠️ Full Tech Stack
-
-**Agentic AI & LLMs**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-00BCD4?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6C3483?style=flat-square)
-![Mistral](https://img.shields.io/badge/Mistral_7B-FF7000?style=flat-square)
-
-**ML · Deep Learning · Computer Vision**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAA?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Backend · Infrastructure · DevOps**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
-
-**Frontend · Desktop**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhrumil1128&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil1128&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dhrumil1128&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhrumil1128&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Highlights
+[LinkedIn](https://www.linkedin.com/in/dhrumil-pawar/) | [Portfolio](https://www.datascienceportfol.io/dhrumilpawar) | [Email](mailto:dhrumilpawar2910@gmail.com)
 
 | | |
 |---|---|
-| 🏭 | **Production CV Pipeline** — Real-time YOLOv8 industrial system at WhiskrCode — annotation to deployed desktop app |
-| 🤖 | **KAIROS V1** — 5-tier autonomous AI engineering engine, 6 agents, self-healing loop, 47-page EDD |
-| 🧠 | **AI IntelHub** — Full-stack SaaS with RAG, WebSockets, 3 auth systems, Razorpay billing, pgvector |
-| 🎤 | **Speaker** — "Harnessing NLP with AI" · International AI Conference 2024 |
-| 🎓 | **B.Tech CSE** · ITM (SLS) Baroda University · CGPA 8.7/10 |
+| Current role | AI/ML Engineer, WhiskrCode (remote) |
+| Focus | Agentic AI, computer vision, generative AI |
+| Building | KAIROS V1 (autonomous AI engineering platform) and AI IntelHub (AI intelligence SaaS) |
+| Target roles | Agentic AI Engineer, AI/ML Engineer, GenAI Engineer, Computer Vision Engineer |
+| Open to | Global remote roles, full-time or contract. Visa sponsorship: UK, EU, Canada, UAE, Singapore, USA |
 
----
+## Verify my work
 
-## 🤝 Let's Connect
+The source code of my two main projects is private. These links show the architecture, the working product and the engineering documentation.
 
-<div align="center">
+| Project | Evidence |
+|---|---|
+| KAIROS V1 | [Demo video]({{KAIROS_DEMO_URL}}) / [Architecture showcase]({{KAIROS_SHOWCASE_URL}}) |
+| AI IntelHub | [Demo video]({{INTELHUB_DEMO_URL}}) / [Architecture showcase]({{INTELHUB_SHOWCASE_URL}}) |
+| Agent and ML projects | Public repositories, listed under Other projects below |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrumil-pawar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datascienceportfol.io/dhrumilpawar)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhrumilpawar2910@gmail.com)
+<!--
+Add after you measure them: YOLOv8 results (for example mAP and FPS), KAIROS task success rate, IntelHub retrieval latency.
+Only add numbers you can explain and reproduce.
+-->
 
-<br/>
+## Experience
 
-**Open to global remote roles — full-time & contract**
+**AI/ML Engineer, WhiskrCode** (remote) | June 2025 to present
 
-**AI/ML Engineer · Agentic AI Developer · GenAI Engineer · Computer Vision Engineer**
+- Built a real-time YOLOv8 computer vision pipeline for an industrial use case: dataset preparation and annotation, model training, evaluation and deployment as a desktop application.
+- Built agentic AI workflows with CrewAI and LangGraph for multi-step reasoning, task orchestration and business process automation.
+- Developed AI solutions across agentic AI, generative AI, machine learning and computer vision to automate business workflows.
 
-**Open to visa sponsorship: UK · EU · Canada · UAE · Singapore · USA**
+## Selected projects
 
-<br/>
+### KAIROS V1: autonomous AI engineering platform
 
-⭐ **If you find my work interesting, consider starring a repo — it helps more than you think.**
+A 5-layer engine that coordinates six specialized agents to plan, generate, review, repair and test complete codebases, delivered as a standalone cross-platform desktop application.
 
-</div>
+```mermaid
+flowchart LR
+    REQ["User request"] --> PLAN["Planner"]
+    PLAN --> ARCH["Architect"]
+    ARCH --> CODE["Coder"]
+    CODE --> REV["Reviewer"]
+    REV -->|"pass"| TEST["Tester"]
+    REV -->|"fail"| REPAIR["Repair loop"]
+    REPAIR --> REV
+    TEST --> MEM["Memory"]
+    TEST -.-> SBX["Sandboxed executor"]
+```
+
+| Subsystem | What it does |
+|---|---|
+| Six-agent pipeline | Planner, Architect, Coder, Reviewer, Tester and Memory agents run in strict sequence |
+| Self-healing repair loop | When review fails, it builds a fix plan and re-runs the reviewer without human input |
+| Deterministic blueprints | Framework templates keep project structure identical on every run instead of leaving layout to the LLM |
+| Multi-provider LLM routing | OpenAI, Claude, Gemini, Ollama and NVIDIA behind one provider abstraction |
+| Sandboxed execution | Generated code runs in isolated subprocesses with a 30-second timeout and stderr capture |
+| Desktop automation | PyAutoGUI, PyGetWindow and Playwright for window, mouse, keyboard and browser control |
+| Packaging | Standalone cross-platform app built with PyQt6 and PyInstaller |
+| Engineering documentation | 47-page design document with architecture decision records, a threat model and 18 architecture diagrams |
+
+**Stack:** Python, LangGraph, CrewAI, MCP, OpenAI, Claude, Gemini, Ollama, NVIDIA, PyQt6, Playwright, PyAutoGUI, FastAPI, Docker, SQLite
+
+### AI IntelHub: AI intelligence SaaS
+
+A full-stack platform that aggregates AI news, startup funding intelligence, model releases, framework updates and research trends, with semantic search powered by RAG. Status: working product under active development.
+
+```mermaid
+flowchart LR
+    FE["Next.js 15 frontend"] --> API["FastAPI backend"]
+    API --> HND["Modular handlers"]
+    HND --> RAG["RAG retrieval pipeline"]
+    RAG --> PG["PostgreSQL with pgvector"]
+    RAG --> LLM["Gemini API"]
+    SCH["Background scheduler"] --> PG
+    API --> RED["Redis rate limiting"]
+    API -.-> WS["WebSocket live feeds"]
+```
+
+- **Retrieval:** RAG with pgvector inside PostgreSQL, which avoids running a separate vector database service.
+- **Authentication:** email, phone OTP (Firebase) and Google OAuth sign-in with JWT sessions, plus Redis-based rate limiting.
+- **Billing:** Razorpay subscriptions, invoice generation, plan management and usage restrictions.
+- **Real time:** WebSocket infrastructure for live news feeds and dashboard synchronization.
+- **Architecture:** modular handlers replace a monolithic chatbot design, so features stay isolated and easier to extend.
+- **Ingestion:** a background scheduler runs the automated intelligence ingestion pipeline and embedding generation.
+
+**Stack:** Python, FastAPI, Next.js 15, TypeScript, PostgreSQL, pgvector, Redis, Docker, Gemini API, Firebase, Razorpay, SQLAlchemy, Alembic, Tailwind CSS, shadcn/ui, Playwright
+
+<!--
+Uncomment when the repository is public and has real results.
+
+### Breaking Change Radar: open-source GitHub App (in development)
+
+A GitHub App that tells developers what a dependency upgrade will break in their repository, before they upgrade, with official evidence for every finding.
+Benchmark results and a live demo will be published here.
+-->
+
+## How I build
+
+- **Keep AI where it helps and code where it is exact.** Deterministic blueprints and sandboxed execution in KAIROS exist so results are repeatable and failures are contained.
+- **Choose simple infrastructure first.** pgvector inside PostgreSQL instead of a separate vector service in AI IntelHub.
+- **Isolate features.** Modular handlers instead of one monolithic assistant.
+- **Write the design down.** Architecture decision records, a threat model and diagrams for KAIROS.
+
+## Other projects
+
+<details>
+<summary>Agent and machine learning projects (public repositories)</summary>
+
+<br>
+
+- [Travel Planner AI Agent](https://github.com/dhrumil1128/Travel-Planner-AI-Agent-v2.0): a multi-step autonomous trip planner that reasons over location data, photos and activities. LangGraph, Gemini Pro, Streamlit, REST APIs.
+- [AutoML Agent](https://github.com/dhrumil1128/AutoML-Agent): an agent that generates end-to-end ML pipelines from natural language instructions, covering feature engineering, model selection, training and evaluation. LangGraph, LLMs, Pandas, scikit-learn.
+- [Smart AI Traffic Management System](https://github.com/dhrumil1128/Smart-AI-Traffic-Managment-System-): ML-driven dynamic traffic signal control with emergency vehicle routing. Flask, Gemini Pro, scikit-learn, NetworkX, Leaflet.js.
+
+</details>
+
+## Skills
+
+| Area | Technologies |
+|---|---|
+| Agentic AI and LLMs | LangGraph, CrewAI, MCP, RAG, OpenAI, Claude, Gemini, Ollama, NVIDIA, Mistral 7B |
+| Computer vision and ML | YOLOv8, PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face |
+| Backend | Python, FastAPI, Flask, SQLAlchemy, Alembic, PostgreSQL, pgvector, Redis, WebSockets |
+| Frontend and desktop | Next.js, TypeScript, Tailwind CSS, shadcn/ui, PyQt6, Streamlit |
+| Automation | Playwright, PyAutoGUI |
+| DevOps and cloud | Docker, GitHub Actions, AWS |
+
+## Talk and education
+
+- Speaker: "Harnessing NLP with AI", International AI Conference, 2024.
+- B.Tech in Computer Science Engineering, ITM (SLS) Baroda University, 2021 to 2025. CGPA 8.7/10.
+
+## Contact
+
+I am open to global remote roles, full-time or contract, in agentic AI, AI/ML, generative AI and computer vision.
+
+Email: [dhrumilpawar2910@gmail.com](mailto:dhrumilpawar2910@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dhrumil-pawar/) | [Portfolio](https://www.datascienceportfol.io/dhrumilpawar)

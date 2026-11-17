@@ -1,4 +1,4 @@
-# Dhrumil Pawar
+<img src="assets/banner.svg" alt="Dhrumil Pawar, AI/ML Engineer focused on agentic AI, computer vision and generative AI" width="100%">
 
 **AI/ML Engineer building agentic AI systems, computer vision pipelines and full-stack AI products.**
 
@@ -9,14 +9,18 @@
 | | |
 |---|---|
 | Current role | AI/ML Engineer, WhiskrCode (remote) |
-| Focus | Agentic AI, computer vision, generative AI |
-| Building | KAIROS V1 (autonomous AI engineering platform) and AI IntelHub (AI intelligence SaaS) |
 | Target roles | Agentic AI Engineer, AI/ML Engineer, GenAI Engineer, Computer Vision Engineer |
 | Open to | Global remote roles, full-time or contract. Visa sponsorship: UK, EU, Canada, UAE, Singapore, USA |
 
+<img src="assets/stats.svg" alt="Six specialized agents, five LLM providers, 33 plus news sources, a 47 page design document and 18 architecture diagrams" width="100%">
+
+## What I work on
+
+<img src="assets/focus.svg" alt="Three focus areas: agentic AI, computer vision, and full-stack AI products" width="100%">
+
 ## Verify my work
 
-The source code of my two main projects is private. These links show the architecture, the working product and the engineering documentation.
+The source code of my two main projects is private. These links show the working product, the architecture and the engineering documentation.
 
 | Project | Evidence |
 |---|---|
@@ -43,18 +47,7 @@ Only add numbers you can explain and reproduce.
 
 A 5-layer engine that coordinates six specialized agents to plan, generate, review, repair and test complete codebases, delivered as a standalone cross-platform desktop application.
 
-```mermaid
-flowchart LR
-    REQ["User request"] --> PLAN["Planner"]
-    PLAN --> ARCH["Architect"]
-    ARCH --> CODE["Coder"]
-    CODE --> REV["Reviewer"]
-    REV -->|"pass"| TEST["Tester"]
-    REV -->|"fail"| REPAIR["Repair loop"]
-    REPAIR --> REV
-    TEST --> MEM["Memory"]
-    TEST -.-> SBX["Sandboxed executor"]
-```
+<img src="assets/kairos.svg" alt="KAIROS V1 system overview: six agents in sequence with a repair loop, deterministic blueprints and a sandboxed executor, over a multi-provider LLM routing layer" width="100%">
 
 | Subsystem | What it does |
 |---|---|
@@ -73,17 +66,7 @@ flowchart LR
 
 A full-stack platform that aggregates AI news, startup funding intelligence, model releases, framework updates and research trends, with semantic search powered by RAG. Status: working product under active development.
 
-```mermaid
-flowchart LR
-    FE["Next.js 15 frontend"] --> API["FastAPI backend"]
-    API --> HND["Modular handlers"]
-    HND --> RAG["RAG retrieval pipeline"]
-    RAG --> PG["PostgreSQL with pgvector"]
-    RAG --> LLM["Gemini API"]
-    SCH["Background scheduler"] --> PG
-    API --> RED["Redis rate limiting"]
-    API -.-> WS["WebSocket live feeds"]
-```
+<img src="assets/intelhub.svg" alt="AI IntelHub architecture: Next.js frontend, FastAPI backend, modular handlers, RAG pipeline and PostgreSQL with pgvector, plus Gemini, Redis, Firebase, Razorpay and a background scheduler" width="100%">
 
 - **Retrieval:** RAG with pgvector inside PostgreSQL, which avoids running a separate vector database service.
 - **Authentication:** email, phone OTP (Firebase) and Google OAuth sign-in with JWT sessions, plus Redis-based rate limiting.
@@ -103,12 +86,36 @@ A GitHub App that tells developers what a dependency upgrade will break in their
 Benchmark results and a live demo will be published here.
 -->
 
+## Skills
+
+<img src="assets/skills.svg" alt="Matrix of skill areas against WhiskrCode, KAIROS V1, AI IntelHub and agent and ML projects, filled where the technology appears in that project's stack" width="100%">
+
+<details>
+<summary>Full technology list</summary>
+
+<br>
+
+| Area | Technologies |
+|---|---|
+| Agentic AI and LLMs | LangGraph, CrewAI, MCP, RAG, OpenAI, Claude, Gemini, Ollama, NVIDIA, Mistral 7B |
+| Computer vision and ML | YOLOv8, PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face |
+| Backend | Python, FastAPI, Flask, SQLAlchemy, Alembic, PostgreSQL, pgvector, Redis, WebSockets |
+| Frontend and desktop | Next.js, TypeScript, Tailwind CSS, shadcn/ui, PyQt6, Streamlit |
+| Automation | Playwright, PyAutoGUI |
+| DevOps and cloud | Docker, GitHub Actions, AWS |
+
+</details>
+
 ## How I build
 
 - **Keep AI where it helps and code where it is exact.** Deterministic blueprints and sandboxed execution in KAIROS exist so results are repeatable and failures are contained.
 - **Choose simple infrastructure first.** pgvector inside PostgreSQL instead of a separate vector service in AI IntelHub.
 - **Isolate features.** Modular handlers instead of one monolithic assistant.
 - **Write the design down.** Architecture decision records, a threat model and diagrams for KAIROS.
+
+## Timeline
+
+<img src="assets/timeline.svg" alt="Timeline: B.Tech from August 2021, conference talk in 2024, graduation in April 2025, AI/ML Engineer at WhiskrCode from June 2025, now building KAIROS V1 and AI IntelHub" width="100%">
 
 ## Other projects
 
@@ -122,17 +129,6 @@ Benchmark results and a live demo will be published here.
 - [Smart AI Traffic Management System](https://github.com/dhrumil1128/Smart-AI-Traffic-Managment-System-): ML-driven dynamic traffic signal control with emergency vehicle routing. Flask, Gemini Pro, scikit-learn, NetworkX, Leaflet.js.
 
 </details>
-
-## Skills
-
-| Area | Technologies |
-|---|---|
-| Agentic AI and LLMs | LangGraph, CrewAI, MCP, RAG, OpenAI, Claude, Gemini, Ollama, NVIDIA, Mistral 7B |
-| Computer vision and ML | YOLOv8, PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face |
-| Backend | Python, FastAPI, Flask, SQLAlchemy, Alembic, PostgreSQL, pgvector, Redis, WebSockets |
-| Frontend and desktop | Next.js, TypeScript, Tailwind CSS, shadcn/ui, PyQt6, Streamlit |
-| Automation | Playwright, PyAutoGUI |
-| DevOps and cloud | Docker, GitHub Actions, AWS |
 
 ## Talk and education
 
